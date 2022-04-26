@@ -1,3 +1,5 @@
+
+# Design of optimization tools for quantum information theory
 ## Abstract
 In this thesis, we present optimization tools for different problems in quan-
 tum information theory. First, we introduce an algorithm for quantum estate
